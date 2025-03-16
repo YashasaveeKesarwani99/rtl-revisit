@@ -34,7 +34,7 @@
 
 ## Notes
 
-- **Philosphy** - Tests should be written to expect and assert outcomes and not how that outcome has been implemented.
+- **Philosphy** - Tests should be written to expect and assert outcomes and not to judge how that outcome has been implemented.
 
 - **What to test?** - Test what the component has been made for i.e rendering of component, updatation of it's states, props. It's behaviour when user interacts with it through all the channels ( mouse click, keyboard actions, voice and gesture interactions ). Next, it's behaviour when side effects are triggered ( it's response to the outside world, http calls)
 
